@@ -1,5 +1,4 @@
 
-package com.chanchan.system1;
 import javax.crypto.Cipher;
 import javax.crypto.KeyGenerator;
 import javax.crypto.SecretKey;
