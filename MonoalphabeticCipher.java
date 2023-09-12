@@ -60,7 +60,7 @@ public class MonoalphabeticCipher {
 
     public static void main(String[] args) {
         MonoalphabeticCipher cipher = new MonoalphabeticCipher();
-        String plaintext = "hello world";
+        String plaintext = "ABCDEFG";
         String encryptedText = cipher.encrypt(plaintext);
         String decryptedText = cipher.decrypt(encryptedText);
 
