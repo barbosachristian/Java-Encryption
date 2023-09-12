@@ -14,7 +14,7 @@ public class cipher {
             for (int i = 0; i < 26; i++) {
                 System.out.println(alphabet[i] + " -> " + values[i]);
             } 
-
+System.out.println("End of the program");
     }
     
 }
