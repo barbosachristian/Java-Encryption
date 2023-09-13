@@ -69,3 +69,9 @@ public class MonoalphabeticCipher {
         System.out.println("Decrypted: " + decryptedText);
     }
 }
+
+//need to ask for the User the input
+//need to display the output
+//Monoalphabetic cipher
+//Poly Alphabetic Cipher
+//Vigenere Ciphers
