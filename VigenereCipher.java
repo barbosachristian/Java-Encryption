@@ -71,3 +71,4 @@ public class VigenereCipher {
         System.out.println("Decrypted: " + decryptedText);
     }
 }
+//need to implement this algorithm in the GUI
